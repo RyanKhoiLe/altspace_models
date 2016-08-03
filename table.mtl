@@ -6,4 +6,6 @@ newmtl Wood
 	Kd 0.5880 0.5880 0.5880
 	Ka 0.5880 0.5880 0.5880
 	Tf 1.0000 1.0000 1.0000
-	map_Kd oldWood.jpg
+	map_Kd https://ryankhoile.github.io/altspace_models/oldWood.jpg
+
+	
